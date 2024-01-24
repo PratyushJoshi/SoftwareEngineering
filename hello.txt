@@ -1,1 +1,2 @@
 this is a text file I have created for gitignore test
+git stash check scenerio
